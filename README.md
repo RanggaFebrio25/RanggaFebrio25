@@ -1,5 +1,15 @@
+<!-- Header Animated GIF -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&pause=1000&color=D8502A&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rangga+Febrio!+👋;Lead+Frontend+%26+Mobile+Developer;Fullstack+Web+Enthusiast;Cyber+Samurai+Designer+⚔️" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Cyber Coding Animation" />
+</div>
+
+<br/>
+
+<!-- Animated Typing Text -->
+<div align="center">
+  <a href="https://www.syaraline.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D8502A&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Rangga+Febrio!+👋;Lead+Frontend+%26+Mobile+Developer;Neo-Brutalism+%26+Cyber+Samurai+Vibe;Welcome+to+my+GitHub+Workspace!+" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
@@ -9,34 +19,53 @@
 
 <br/>
 
+<!-- Social Media Animated / Shields -->
 <div align="center">
-  <a href="https://linkedin.com/in/ranggafebrio"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://facebook.com/ranggafebrio25"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat-square" alt="Facebook"></a>
-  <a href="https://instagram.com/ranggafebrio_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=flat-square" alt="Instagram"></a>
-  <a href="https://tiktok.com/@KayzuXy25"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=flat-square" alt="TikTok"></a>
-  <a href="https://youtube.com/@KayzuXy25"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square" alt="YouTube"></a>
+  <a href="https://linkedin.com/in/ranggafebrio"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://facebook.com/ranggafebrio25"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" alt="Facebook"></a>
+  <a href="https://instagram.com/ranggafebrio_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
+  <a href="https://tiktok.com/@KayzuXy25"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge" alt="TikTok"></a>
+  <a href="https://youtube.com/@KayzuXy25"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=for-the-badge" alt="YouTube"></a>
 </div>
 
 <br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/wave.gif" width="600" alt="Wave animation">
-</div>
+<img src="https://raw.githubusercontent.com/trinhngocminh/trinhngocminh/main/assets/wave.gif" width="100%" alt="Wave separator">
 <br/>
 
-## 🚀 About Me
+## 🚀 About My Journey
 
-- 💼 **Lead Frontend / Mobile Developer** at PT Hasel Milek Jaya
-- 🔭 I’m currently working on **Check Spot (Smart Attendance)** and **Dscale (Weighbridge System)**
-- 🌱 I’m currently exploring **3D Web Graphics (Three.js/Spline)** & **WebSocket hardware integrations**
-- 🎨 My design philosophy blends **Neo-Brutalism** with **Cyber Samurai** aesthetics.
-- 💬 Ask me about **Next.js, Flutter, UI/UX Micro-interactions, or System Architecture**
-- ⚡ Fun fact: I design both the database schemas (SQL Server/Prisma) *and* the pixel-perfect frontend animations!
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>💼 <b>Current Role:</b> Lead Frontend & Mobile Developer at PT Hasel Milek Jaya</li>
+        <li>🔭 <b>Active Projects:</b> <strong>Check Spot</strong> (Smart Attendance) & <strong>Dscale</strong> (Weighbridge System)</li>
+        <li>🌱 <b>Learning:</b> 3D Web Graphics (Three.js/Spline) & WebSocket hardware integrations</li>
+        <li>🎨 <b>Design Signature:</b> Neo-Brutalism combined with Cyber Samurai aesthetics</li>
+        <li>💬 <b>Ask me about:</b> Next.js, Flutter, UI/UX Micro-interactions, & System Architecture</li>
+        <li>⚡ <b>Fun fact:</b> I design both the complex database schemas (SQL Server/Prisma) <i>and</i> the pixel-perfect frontend animations!</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- Visitor Badge -->
+      <img src="https://komarev.com/ghpvc/?username=RanggaFebrio25&label=Profile%20Views&color=D8502A&style=for-the-badge" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RanggaFebrio25&theme=gitdimmed&row=1&column=7&margin-w=15&margin-h=15" alt="Rangga's Trophies" />
+  </a>
+</div>
 
 ---
 
 ## 💻 Tech Stack & Tools
-
-*Here are the technologies I work with on a daily basis:*
 
 <div align="center">
   <h3>🌐 Web & Mobile Development</h3>
@@ -45,6 +74,8 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   <h3>⚙️ Backend, Database & Cloud</h3>
   <a href="https://skillicons.dev">
@@ -52,8 +83,10 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <h3>🎨 Design & Data</h3>
+  <h3>🎨 Design & Data Science</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ai,tensorflow,scikitlearn,vscode,notion&perline=12" />
   </a>
@@ -61,22 +94,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Coding Stats
 
 *(Themed with my custom Cyber Samurai Palette: `#1A1A1A`, `#D8502A`, `#2AA8C8`, `#F0E8D0`)*
 
 <div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RanggaFebrio25&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=D8502A&text_color=2AA8C8&icon_color=F0E8D0" alt="Rangga's GitHub Stats" width="48%" />
-  <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanggaFebrio25&hide_border=true&background=1A1A1A&ring=D8502A&fire=D8502A&currStreakNum=2AA8C8&currStreakLabel=F0E8D0&sideNums=F0E8D0&sideLabels=F0E8D0&dates=2AA8C8" alt="Rangga's GitHub Streak" width="48%" />
+  <!-- GitHub Stats (Menggunakan sintaks markdown agar tidak mudah broken) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RanggaFebrio25&show_icons=true&hide_border=true&bg_color=1A1A1A&title_color=D8502A&text_color=2AA8C8&icon_color=F0E8D0" height="195" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanggaFebrio25&hide_border=true&background=1A1A1A&ring=D8502A&fire=D8502A&currStreakNum=2AA8C8&currStreakLabel=F0E8D0&sideNums=F0E8D0&sideLabels=F0E8D0&dates=2AA8C8" height="195" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaFebrio25&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=D8502A&text_color=2AA8C8" alt="Top Languages" width="60%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaFebrio25&layout=compact&hide_border=true&bg_color=1A1A1A&title_color=D8502A&text_color=2AA8C8" alt="Top Languages" />
 </div>
 
 ---
@@ -89,10 +123,7 @@
 <br/>
 
 <div align="center">
-  
-  [![Profile Views](https://visitcount.itsvg.in/api?id=RanggaFebrio25&icon=0&color=6)](https://visitcount.itsvg.in)
-  
-  ### ☕ Support My Work
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ranggafebrio25)
-  
+  <h3>☕ Support My Work</h3>
+  <p>If you like my projects or design, consider supporting me!</p>
+  <a href="https://paypal.me/ranggafebrio25"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 </div>
