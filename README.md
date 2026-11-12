@@ -290,7 +290,7 @@
 
 <div align="center">
   <img src="./assets/energy-wave.gif" width="100%" alt="Animated footer divider" />
-  <h3>RANGGA FEBRIO // CYBER SAMURAI</h3>
+  <h3>RANGGA FEBRIO</h3>
   <sub>Developer · Builder · Learner · Always Improving</sub>
   <br/>
   <sub>Crafted with discipline, caffeine, and curiosity.</sub>
